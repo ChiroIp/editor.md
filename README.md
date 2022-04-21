@@ -1,6 +1,6 @@
 # Editor.md
 
-TODO: Integration wioth a clod service
+TODO: Integration with a cloud service
 
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
