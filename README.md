@@ -1,5 +1,8 @@
 # Editor.md
 
+TODO: Integration wioth a clod service
+
+
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
